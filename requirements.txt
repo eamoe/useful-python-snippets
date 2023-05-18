@@ -1,5 +1,6 @@
 contourpy==1.0.7
 cycler==0.11.0
+Faker==18.9.0
 fonttools==4.39.4
 kiwisolver==1.4.4
 matplotlib==3.7.1
